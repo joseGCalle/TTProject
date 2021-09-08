@@ -1,0 +1,10 @@
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\bin\Debug\APIRest.exe.config
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\bin\Debug\APIRest.exe
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\bin\Debug\APIRest.pdb
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\obj\Debug\APIRest.csproj.AssemblyReference.cache
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\obj\Debug\APIRest.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\obj\Debug\APIRest.exe
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\obj\Debug\APIRest.pdb
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joseg\OneDrive\Documentos\TTProject\APIRest\obj\Debug\APIRest.csproj.CopyComplete
